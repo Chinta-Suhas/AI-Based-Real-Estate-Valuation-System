@@ -1,4 +1,5 @@
 streamlit>=1.22
+matplotlib
 pandas
 numpy
 scikit-learn
