@@ -1,0 +1,1 @@
+It seems like you're trying to upload a file that exceeds the size limit. Please ensure that the file you are trying to upload is smaller than 25MB. If you need help with something specific in the file, you can describe the content or share relevant excerpts, and I'll do my best to assist you!
