@@ -1,1 +1,0 @@
-It seems like you're trying to upload a file that exceeds the size limit. If you could provide a smaller file or summarize the content you need help with, I'd be happy to assist you!
