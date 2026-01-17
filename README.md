@@ -20,3 +20,5 @@ Notes:
 - If you want automatic training on deploy, include `india_housing_prices.csv` in the repo root. The app trains a quick RandomForest and saves `model.pkl` on first run.
 - If you already have a trained model, upload it as `real_estate_model.pkl` (or `model.pkl`) to the repo to skip training.
 - To view logs, open the app on Streamlit Cloud and click Logs. If training times out, consider training locally and uploading the saved model file.
+
+https://huggingface.co/spaces/ChintaSuhas/Real-Estate-Validation-System this is tha link to check the website
